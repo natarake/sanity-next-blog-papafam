@@ -2,7 +2,7 @@
 
 ![Sanity-Next-Blog](https://i.ibb.co/RYyWXp0/sanity-next-blog.png)
 
-Sanity-Next-Blog is a NextJS 13 blog tutorial by [Sonny Sangha](https://www.youtube.com/watch?v=xc4uOzlndAk). It is made using the latest version of Next13 including the expiremental appDir feature as well as the latest version of Sanity studio. It is styled using tailwind CSS.
+Sanity-Next-Blog is a NextJS 13 blog tutorial by [Sonny Sangha](https://www.youtube.com/watch?v=x3fCEPFgUSM&t=9331s). It is made using the latest version of Next13 including the expiremental appDir feature as well as the latest version of Sanity studio. It is styled using tailwind CSS.
 
 ## What are the features of Sanity-Next-Blog
 
